@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MorningCoding
 - 👀 I’m interested in cloud computing and software development
-- 🌱 I’m currently in the Amazon Web Services re/start program learning about cloud computing, networking, security, databases, Linux and Python. 
-- 💞️ I’m looking to collaborate on a database project for this week of March 22!
+- 🌱 I completed the Amazon Web Services re/start program learning about cloud computing, networking, security, databases, Linux and Python. 
+- 💞️ I’m looking to learn React through Lighthouse Labs
 - 📫 How to reach me:
 
 <!---
